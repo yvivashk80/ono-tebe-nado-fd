@@ -261,8 +261,7 @@
 .footer {
   display: grid;
   grid-template-columns: 243px 1fr 240px;
-  margin: 0 50px;
-  min-height: 180px;
+  margin: 0 50px 82px 50px;
 }
 
 .footer__address {
